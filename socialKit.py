@@ -212,7 +212,7 @@ def banner_1():
 def banner_2():
     bm =  '''{}—————————————————— {}[{}INFORMATION{}] {}———————————————————>
 {}[{}✓{}] {}Creator {}: {}Niassoh Taarmos{}[{}CyberCoder{}]
-{}[{}✓{}] {}YouTube {}: {}HackerFake424
+{}[{}✓{}] {}YouTube {}: {}iShortcutGamer
 {}[{}✓{}] {}Support {}: {}Personal CyberCoder
 {}[{}✓{}] {}GitHub  {}: {}https://github.com/{}Mr{}Ghost{}Official 
 {}————————————————————————————————————————————————————>{}'''.format(black,red,green,red,black,red,green,red,white,red,white,redlite,yellowlite,redlite,red,green,red,white,red,purple,red,green,red,white,red,cyan,red,green,red,white,red,green,yellowlite,whitelite,greenlite,black,finished)
